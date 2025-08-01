@@ -11,10 +11,16 @@ def calculate_square(number):
     """Calculate the square of a number."""
     return number ** 2
 
+def minus_five(number):
+    """Subtract 5 from a number."""
+    return number - 5
+
 def main():
     """Main function that runs when the script is executed."""
     print("Hello, World! Welcome to your Python workspace!")
     print("You can start coding here!")
+    print ("This is a test change")
+    print ("This is a test change 2")
     
     # Example: Add your code here
     name = input("What's your name? ")
